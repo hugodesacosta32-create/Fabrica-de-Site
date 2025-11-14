@@ -1,0 +1,14 @@
+body{
+
+
+}
+
+.sobre{
+    
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0,.4);
+    border-radius: 15px;
+    border: 2px solid black;
+    width: 1150px;
+
+}
