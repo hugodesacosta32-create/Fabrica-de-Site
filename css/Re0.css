@@ -1,0 +1,31 @@
+body{
+background-image: url(/imgs/re0.jpg); 
+    background-repeat: no-repeat;
+    width: auto;
+    background-size: cover;
+    
+    }
+ .re0{
+    color:#fff;
+
+}
+
+.h0{
+    color: crimson;
+
+}
+ 
+.h2{
+    color: crimson;
+}
+
+.p2{
+    color: #fff;
+}
+
+.d1{
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0,.4);
+    border: 2px solid black;
+    width: 1150px;
+}

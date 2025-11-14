@@ -1,0 +1,43 @@
+body{
+    background-image: url(/imgs/capcom.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;align-items: center;
+}
+
+.h1{
+    color: #ffffff;
+}
+
+.p1{
+
+    color: rgb(255, 30, 187);
+   
+}
+
+footer{
+    text-align: center;
+    padding: 15px 0;
+    font-size: 16px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    width: 100%;
+    box-shadow: 0 -2px 10px;
+}
+
+.d1{
+
+    margin: 0 auto;
+    border-radius: 15px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0,.4);
+    align-items: center;
+    width: 1150px;
+
+
+
+
+
+}
+

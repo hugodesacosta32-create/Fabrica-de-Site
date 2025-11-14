@@ -1,0 +1,49 @@
+body{
+    background-image: url(/imgs/1920x1080-resident-evil-2-background-4qf4uog599qp2a1g.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+}
+
+.h1{
+    color: crimson;
+}
+
+.p1{
+    color: #fff;
+}
+
+.h2{
+    color: crimson;
+}
+
+.p2{
+    color: #fff;
+}
+
+.h3{
+    color: crimson;
+}
+
+.p3{
+    color:#fff;
+}
+
+.h4{
+    color: crimson;
+
+}
+
+.p4{
+    color: #fff;
+}
+
+
+.d1{
+
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0,.4);
+    border-radius: 15px;
+    border: 2px solid black;
+    width: 1150px;
+}

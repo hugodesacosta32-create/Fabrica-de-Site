@@ -1,0 +1,35 @@
+body{
+    background-image: url(/imgs/421814.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+}
+
+.h1{
+    color:crimson;
+}
+
+.p1{color: #bf4afe;
+
+}
+
+.h2{
+    color: crimson;
+
+
+}
+
+.p2{
+
+color: #a93efb;
+}
+
+
+.d1{
+
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0,.4);
+    border-radius: 15px;
+    border: 2px solid black;
+    width: 1150px;
+}
