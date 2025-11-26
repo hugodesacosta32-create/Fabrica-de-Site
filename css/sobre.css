@@ -1,4 +1,7 @@
 body{
+ background-image: url(/imgs/GAMECOIN-RESIDENTE-EVIL-UMBRELLA-CORPS2.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
 
 
 }
@@ -6,8 +9,8 @@ body{
 .sobre{
     
     margin: 0 auto;
-    background-color: rgba(0, 0, 0,.4);
-    border-radius: 15px;
+    background-color: rgba(61, 52, 52, 0.107);
+    border-radius: 5px;
     border: 2px solid black;
     width: 1150px;
 
