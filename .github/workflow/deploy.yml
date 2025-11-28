@@ -1,4 +1,4 @@
-name: 🚀 Deploy & Quality Assurance
+name: 🦙 Deploy & Quality Assurance
 
 on:
   push:
@@ -28,9 +28,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: 📥 Checkout code
+      - name: 🔽 Checkout code
         uses: actions/checkout@v4
-
       - name: 📄 Setup Pages
         uses: actions/configure-pages@v4
 
