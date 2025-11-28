@@ -1,5 +1,5 @@
 body{
-    background-image: url(/imgs/1.jpg);
+    background-image: url(/imgs/xxxx.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: auto;
@@ -12,4 +12,13 @@ body{
     border-radius: 15px;
     border: 2px solid black;
     width: 1150px;
+}
+
+.d1{
+    color: #515151;
+    
+}
+
+.d2{
+    color: rgb(132, 12, 36);
 }
